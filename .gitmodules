@@ -1,0 +1,6 @@
+[submodule "main-program"]
+	path = main-program
+	url = git@github.com:leeju8/CS-361-main-program.git
+[submodule "inspirational-quote-microservice"]
+	path = inspirational-quote-microservice
+	url = git@github.com:leeju8/CS-361-inspirational-quotes-microservice.git
